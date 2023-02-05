@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Styding **Full-stack Web Devlopeing**
 
-- 👨‍💻 Checkout my portfolio [(https://github.com/chandankumar1425](https://github.com/surajpa123)
+- 👨‍💻 Checkout my portfolio [https://github.com/chandankumar1425](https://github.com/chandankumar1425)
 
 - 💬 Ask me about **React,JavaScript,HTML,CSS,MongoDB,NodeJS,Express**
 
