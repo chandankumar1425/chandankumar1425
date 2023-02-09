@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/@kaushikchandan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kaushikchandan_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kaushikchandan6372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushikchandan6372" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/chandan kumar behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chandan kumar behera" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20541855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20541855" height="30" width="40" /></a>
 <a href="https://instagram.com/kaushikchandan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushikchandan_" height="30" width="40" /></a>
 </p>
 
