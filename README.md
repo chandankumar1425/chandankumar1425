@@ -5,7 +5,7 @@
 
 - 👨‍💻 Checkout my portfolio [https://github.com/chandankumar1425](https://github.com/chandankumar1425)
 
-- 💬 Ask me about **React,JavaScript,HTML,CSS**
+- 💬 Ask me about **React,JavaScript,HTML,CSS,MongoDB,NodeJS,Express**
 
 - 📫 How to reach me **chandankumarbehera1425@gmail.com**
 
