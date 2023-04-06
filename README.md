@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently Styding **Full-stack Web Devlopeing**
 
-- 👨‍💻 Checkout my portfolio [https://github.com/chandankumar1425](https://github.com/chandankumar1425)
+- 👨‍💻 Checkout my portfolio [https://beamish-gelato-e4ba83.netlify.app/](https://beamish-gelato-e4ba83.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,MongoDB,NodeJS,Express**
 
