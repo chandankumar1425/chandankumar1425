@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently Styding **Full-stack Web Devlopeing**
+- 🔭 I’m currently Styding **Full-stack Web Devlopement**
 
 - 👨‍💻 Checkout my portfolio [https://beamish-gelato-e4ba83.netlify.app/](https://beamish-gelato-e4ba83.netlify.app/)
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **chandankumarbehera1425@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wy78QhEtfJx5JYAj5dUAB680cujc0_kh/view?usp=share_link](https://drive.google.com/file/d/1Wy78QhEtfJx5JYAj5dUAB680cujc0_kh/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1llD6BbkJ21fIWLx81y7fF1-MEo8s0oX8/view?usp=share_link](https://drive.google.com/file/d/1llD6BbkJ21fIWLx81y7fF1-MEo8s0oX8/view?usp=share_link)
 
 - ⚡ Fun fact **Foodie**
 
