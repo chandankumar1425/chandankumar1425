@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumar1425&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumar1425" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandankumar1425" alt="chandankumar1425" /></a> </p>
+
+
 - 🔭 I’m currently Styding **Full-stack Web Devlopement**
 
 - 👨‍💻 Checkout my portfolio [https://beamish-gelato-e4ba83.netlify.app/](https://beamish-gelato-e4ba83.netlify.app/)
