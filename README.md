@@ -2,12 +2,11 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
+<img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9f9ux63cJQ2bvQEYIEydui_ZwDBRFWcTJ_p4orct6jSqUI9bPAyK56shhUnd1bOKYOvw&usqp=CAU" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumar1425&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumar1425" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandankumar1425" alt="chandankumar1425" /></a> </p>
-
-<img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9f9ux63cJQ2bvQEYIEydui_ZwDBRFWcTJ_p4orct6jSqUI9bPAyK56shhUnd1bOKYOvw&usqp=CAU" />
-
 
 - 🔭 I’m currently Styding **Full-stack Web Devlopement**
 
