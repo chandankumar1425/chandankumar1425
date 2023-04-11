@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumar1425&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumar1425" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandankumar1425" alt="chandankumar1425" /></a> </p>
+
 
 - 🔭 I’m currently Styding **Full-stack Web Devlopement**
 
@@ -20,6 +20,8 @@
 - 👨‍💻 All of my projects are available at [chandankumar1425.github.io](chandankumar1425.github.io)
 
 - ⚡ Fun fact **Foodie**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandankumar1425" alt="chandankumar1425" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
