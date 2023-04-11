@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandankumar1425" alt="chandankumar1425" /></a> </p>
 
+<img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9f9ux63cJQ2bvQEYIEydui_ZwDBRFWcTJ_p4orct6jSqUI9bPAyK56shhUnd1bOKYOvw&usqp=CAU" />
+
 
 - 🔭 I’m currently Styding **Full-stack Web Devlopement**
 
