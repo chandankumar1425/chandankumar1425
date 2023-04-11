@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="300" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9f9ux63cJQ2bvQEYIEydui_ZwDBRFWcTJ_p4orct6jSqUI9bPAyK56shhUnd1bOKYOvw&usqp=CAU](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)" />
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumar1425&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumar1425" /> </p>
 
