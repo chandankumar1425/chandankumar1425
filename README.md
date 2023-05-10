@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumar1425&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumar1425" /> </p>
 
-
 - 🔭 I’m currently Styding **Full-stack Web Devlopement**
 
 - 👨‍💻 Checkout my portfolio [https://beamish-gelato-e4ba83.netlify.app/](https://beamish-gelato-e4ba83.netlify.app/)
