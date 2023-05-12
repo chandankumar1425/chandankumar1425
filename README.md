@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Styding **Full-stack Web Devlopement**
 
-- 👨‍💻 Checkout my portfolio [https://beamish-gelato-e4ba83.netlify.app/](https://beamish-gelato-e4ba83.netlify.app/)
+- 👨‍💻 Checkout my portfolio [https://chandankumar1425.github.io/](https://chandankumar1425.github.io/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,MongoDB,NodeJS,Express**
 
