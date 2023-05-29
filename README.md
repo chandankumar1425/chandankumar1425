@@ -18,7 +18,6 @@
 - 👨‍💻 All of my projects are available at [https://chandankumar1425.github.io/](https://chandankumar1425.github.io/)
 
 - ⚡ Fun fact **Foodie**
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandankumar1425" alt="chandankumar1425" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*0xDGBNrA1WtfSfYY3FJOdw.gif" />
 
