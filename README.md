@@ -44,4 +44,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandankumar1425&" alt="chandankumar1425" /></p>
 
-<p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=chandankumar1425&count_private=true&theme=react-dark&hide_border=true" alt=""></p>
+<h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Aman Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=chandankumar1425&theme=react-dark" /></a>
