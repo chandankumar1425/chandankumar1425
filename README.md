@@ -15,6 +15,7 @@
 - 📫 How to reach me **chandankumarbehera1425@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SE2qqDdIdkg07ec1m7Oloi_jYZ06-Y5q/view?usp=share_link](https://drive.google.com/file/d/1SE2qqDdIdkg07ec1m7Oloi_jYZ06-Y5q/view?usp=share_link)
+- 
 - ⚡ Fun fact **Foodie**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandankumar1425" alt="chandankumar1425" /></a> </p>
 <!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*0xDGBNrA1WtfSfYY3FJOdw.gif" /> -->
