@@ -258,7 +258,9 @@ Greetings! I'm Chandan Kumar, a dedicated Full Stack Web Developer. I specialize
 </div>
 <div align="center" style="display: flex; ">
  
+<img src="https://github-stats-alpha.vercel.app/api?username=chandankumar1425" style="width: 40%" />
 <img src="https://streak-stats.demolab.com?user=chandankumar1425&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+
 
 </div>
 
