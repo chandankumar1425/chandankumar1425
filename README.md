@@ -4,7 +4,6 @@
 <h3 align="center">"Aspiring Full Stack Web Developer with Expertise in Node.js Backend Development"</h3>
 <hr>
 
-
 Greetings! I'm Chandan Kumar, a dedicated Full Stack Web Developer. I specialize in NODE stack and JavaScript for seamless web development and backend operations. With a passion for crafting digital solutions that enhance user experiences, I'm eager to tackle new challenges. Excited to explore compelling opportunities where I can contribute my skills to drive innovation and create impactful solutions.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
