@@ -12,6 +12,7 @@ Greetings! I'm Chandan Kumar, a dedicated Full Stack Web Developer. I specialize
      <a>
           <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Chandan Kumar 🏽; I am a Full Stack%20Web%20Developer 🏻‍💻; Interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
+
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
